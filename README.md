@@ -12,5 +12,8 @@ Guarantees to show your digital Licence.
 
 Leave a star.And just please use it responsibly.
 
+  <a href="https://github.com/boss-beep/Windows-Product-Key/releases/download/2.1.4.5/Windows.Product.Key.Finder.exe">Download</a>
+
 You could also try compiling the source-code yourself.
 
+A mention wouldn't hurt.

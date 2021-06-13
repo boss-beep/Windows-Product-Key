@@ -1,5 +1,5 @@
 # Windows-Product-Key Finder.
-Windows Product Key Finder  A tool to find out what your Windows Product key is. Good for when you need to reinstall windows but can't find your CD case.
+Windows Product Key Finder a tool to find out what your Windows Product key is. Good for when you need to reinstall windows but can't find your CD case.
 - The only requirement is that you have .NET 2 installed.
 - Does not require Admin Previledges. 
 - Build in C#.

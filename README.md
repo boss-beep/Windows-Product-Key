@@ -12,3 +12,5 @@ Guarantees to show your digital Licence.
 
 Leave a star.And just please use it responsibly.
 
+You could also try compiling the source-code yourself.
+
